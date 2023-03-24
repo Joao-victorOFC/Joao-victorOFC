@@ -5,7 +5,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Daddyzin4444&show_icons=true&count_private=true&title_color=88ffcc&icon_color=88ffcctext_color=88ffcc&bg_color=2c3e50&border_color=88ffcc" alt="Status Github de Daddyzin4444" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daddyzin4444&title_color=88ffcc&text_color=88ffcc&bg_color=2c3e50&border_color=88ffcc&layout=compact" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daddyzin4444&title_color=88ffcc&text_color=41b876&bg_color=2c3e50&border_color=88ffcc&layout=compact" />
 </div>
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Daddyzin4444&theme=vue&custom_title=Minhas%20Contribuições)
