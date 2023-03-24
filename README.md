@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=88ffcc&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=88ffcc&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+João+Victor;Tenho+13+anos;Moro+em+Brasil,+MG;Sou+estudante+de+HTML5+e+CSS3;Seja+bem+-+vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=88ffcc&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+João+Victor;Tenho+13+anos;Moro+em+Brasil,+MG;Sou+estudante+de+Desenvolvimento+Web;Seja+bem+-+vindo(a)!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
@@ -41,8 +41,5 @@
 <br><p align="centre"><b>Contador de Visitas</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Joao-victorOFC}/count.svg" /></p> 
 <br></div>
-<div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31jwesu6nuidum2e3hzuhva4ikky&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31jwesu6nuidum2e3hzuhva4ikky&cover_image=true&theme=novatorem&show_offline=true&background_color=000015&interchange=true&bar_color=41b876&bar_color_cover=false" alt="Spotify"></a>
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=41b876&height=120&section=footer"/>
