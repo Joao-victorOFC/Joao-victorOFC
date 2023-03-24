@@ -5,13 +5,13 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Joao-victorOFC&show_icons=true&count_private=true&title_color=88ffcc&icon_color=88ffcctext_color=88ffcc&bg_color=2c3e50&border_color=88ffcc" alt="Status Github de Joao-victorOFC" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daddyzin4444&title_color=88ffcc&text_color=41b876&bg_color=2c3e50&border_color=88ffcc&layout=compact" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-victorOFC&title_color=88ffcc&text_color=41b876&bg_color=2c3e50&border_color=88ffcc&layout=compact" />
 </div>
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Joao-victorOFC&theme=vue&custom_title=Minhas%20Contribuições)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Daddyzin4444&theme=radical&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Joao-victorOFC&theme=radical&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
  
