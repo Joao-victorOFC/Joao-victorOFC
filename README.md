@@ -4,11 +4,11 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Daddyzin4444&show_icons=true&count_private=true&title_color=88ffcc&icon_color=88ffcctext_color=88ffcc&bg_color=2c3e50&border_color=88ffcc" alt="Status Github de Daddyzin4444" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Joao-victorOFC&show_icons=true&count_private=true&title_color=88ffcc&icon_color=88ffcctext_color=88ffcc&bg_color=2c3e50&border_color=88ffcc" alt="Status Github de Joao-victorOFC" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daddyzin4444&title_color=88ffcc&text_color=41b876&bg_color=2c3e50&border_color=88ffcc&layout=compact" />
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Daddyzin4444&theme=vue&custom_title=Minhas%20Contribuições)
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Joao-victorOFC&theme=vue&custom_title=Minhas%20Contribuições)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Daddyzin4444&theme=radical&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -39,7 +39,7 @@
  
 <div align="center">
 <br><p align="centre"><b>Contador de Visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Daddyzin4444}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Joao-victorOFC}/count.svg" /></p> 
 <br></div>
 <div align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=31jwesu6nuidum2e3hzuhva4ikky&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31jwesu6nuidum2e3hzuhva4ikky&cover_image=true&theme=novatorem&show_offline=true&background_color=000015&interchange=true&bar_color=41b876&bar_color_cover=false" alt="Spotify"></a>
