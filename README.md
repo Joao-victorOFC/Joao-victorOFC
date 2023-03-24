@@ -19,7 +19,6 @@
 
 ### 👨‍🎓 -> Habilidades Principais:
 ![aoi.js](https://img.shields.io/badge/-aoi.js-0D1117?style=for-the-badge&logo=aoi.js&labelColor=0D1117)&nbsp;
-![SASS-Lang](https://img.shields.io/badge/-SCSS-0D1117?style=for-the-badge&logo=sass&labelColor=0D1117)&nbsp;
  
 ### ⚒️ -> Ferramentas que eu uso:
 ![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117)&nbsp;
