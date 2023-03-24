@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=88ffcc&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=88ffcc&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+João+Victor;Tenho+13+anos;Moro+em+Brasil,+MG;Sou+estudante+de+HTML5+e+CSS3;Seja+bem+-+vindo(a)!+:%29)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=88ffcc&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+João+Victor;Tenho+13+anos;Moro+em+Brasil,+MG;Sou+estudante+de+Desenvolvimento+Web;Seja+bem+-+vindo(a)!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Joao-victorOFC&show_icons=true&count_private=true&title_color=88ffcc&icon_color=88ffcctext_color=88ffcc&bg_color=2c3e50&border_color=88ffcc" alt="Status Github de Joao-victorOFC" /> 
