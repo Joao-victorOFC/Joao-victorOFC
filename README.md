@@ -39,7 +39,7 @@
  
 <div align="center">
 <br><p align="centre"><b>Contador de Visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{uEriic}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Daddyzin4444}/count.svg" /></p> 
 <br></div>
 <div align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=31jwesu6nuidum2e3hzuhva4ikky&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31jwesu6nuidum2e3hzuhva4ikky&cover_image=true&theme=novatorem&show_offline=true&background_color=000015&interchange=true&bar_color=41b876&bar_color_cover=false" alt="Spotify"></a>
